@@ -5,4 +5,4 @@
 Добавила сердечко в список препятсвий Obstacle.types стр ~ 1518. 
 Сделала так, чтобы при столкновении с сердечком игра не заканчивалась в checkForCollision стр ~ 1160.
 Добавть +100 к общему счету не получилось(
-Сслыка:https://ivancova-p.github.io/lab2_t-rex/
+Сслыка:https://ivancova-p.github.io/lab3_t-rex/
