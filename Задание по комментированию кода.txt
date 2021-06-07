@@ -1,0 +1,56 @@
+1. function Runner - 15 сточка/функция описывающая движение
+2.Runner.config - 109 строка/ Описание конфигурации(настроек) игры
+3.Runner.defaultDimensions - 149 строка/ размеры по умолчанию
+4. Runner.classes - 160 строка /имена классов стилей
+5. Runner.spriteDefinition - 176 строка/Таблица поведения обьектов
+6. Runner.sounds - 210 строка /звуковые эффекты 
+7.Runner.keycodes - 223 строка/Код клавиш?
+8.Runner.events - 234 строка / Именя событий
+9.Runner.prototype - 251-898 строка //прототип из кучи функций...
+10. Runner.updateCanvasScaling - 914 строка/ обновить масштабирование холста
+11. function getRandomNum- 953 /вернуть рандомное число
+12. function vibrate - 962 строка/ Вибрация на мобильных устройствах
+13. function createCanvas - 979 строка /???
+14. function decodeBase64ToArrayBuffer - 995 строка / декодирует аудио в формате ...
+15.function getTimeStamp() - 1012 строка //вернуть текущую отметку времни
+16.function GameOverPanel - 1030 строка / панель окончания игры
+17.ameOverPanel.dimensions - 1045 строка //расположение текста игра окончена
+18.GameOverPanel.prototype - 1056-1117 строка / прототип игра окончена с функциями внутри
+19.function checkForCollision - 1130 /функция проверки на столкновение
+20.function createAdjustedCollisionBox - 1190/ функция корекции столкновения
+21. function drawCollisionBoxes - 1202 строка/функция отрисовки столкновения
+22.function boxCompare - 1220 строка/ Стравнение 2х полей на предмет столкновения
+23. function CollisionBox - 1249 строка/НЕ ПОНЯЛА
+24.function Obstacle - 1369 строка /функция препятствий
+25.Obstacle.prototype - 1307-1449 строка /прототип препятсвий с функциями внутри
+26.Obstacle.types - 1460 строка/Определение препятствий 
+27.function Trex - 1519 строка / Описание динозавтра 
+28.Trex.config  - 1554 строка /Конфигурация динозавтра 
+29.Trex.collisionBoxes - 1575 строка /Динозавтр и стокновения
+30.Trex.status - 1594 строка/ Состояние амимации динозавтра 
+31.Trex.BLINK_TIMING - 1606 строка/ Время мигания динозавтра 
+32.Trex.animFrames - 1613 строка/ анимация динозавтра при разных состояниях
+33.Trex.prototype - 1637-1873 строка/ прототип динозавтра с разными функциями
+34.function DistanceMeter - 1885 строка /функция измерения расстояния??? 
+35.DistanceMeter.dimensions - 1914 строка / ???
+36. DistanceMeter.yPos - 1926 строка/ Расположение цифр в таблице спрайтов по оси ??
+37.DistanceMeter.config - 1933 строка /Конфигурация измерителя расстояния
+38. DistanceMeter.prototype - 1951-2134 строка /Прототип изменения расстояния тс функциями внутри
+39. function Cloud - 2146 строка/Элемент фона облака.
+40.Cloud.config - 2165 строка / конфиругаця облака
+41.Cloud.prototype - 2175 строка/ Прототип облака с функциями внутрии
+42.function NightMode - 2238 строка / функция ночного режима 
+43.NightMode.config - 2255 строка / конфигурация ночного режима 
+44.NightMode.phases - 2266 строка/?
+45.NightMode.prototype - 2268 строка/ Прототип ночного режима с функциями внутри
+46.function HorizonLine - 2398 строка/линия горизонта 
+47.HorizonLine.dimensions - 2419 строка/ Расположение линии горизонта
+48.HorizonLine.prototype - 2426-2515 стррока / Прототип линии горизонта я функциями внутри
+49.function Horizon - 2528 строка/ Фоновый класс горзонт
+50.Horizon.config - 2555 строка / конфигурация горизонта
+51. Horizon.prototype - 2564-2737 строка /прототип горизонта с функциями внутри
+52.function onDocumentLoad - 2740 строка/
+53.document.addEventListener - 2774 строка/
+
+
+
